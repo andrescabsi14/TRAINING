@@ -11,7 +11,7 @@ System.register(['angular2/core'], function(exports_1, context_1) {
         if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
     };
     var core_1;
-    var Hero, AppComponent;
+    var Hero, AppComponent, HEROES;
     return {
         setters:[
             function (core_1_1) {
@@ -31,6 +31,7 @@ System.register(['angular2/core'], function(exports_1, context_1) {
                         id: 1,
                         name: 'Windstorm'
                     };
+                    this.heroes = HEROES;
                 }
                 AppComponent = __decorate([
                     core_1.Component({
@@ -42,6 +43,18 @@ System.register(['angular2/core'], function(exports_1, context_1) {
                 return AppComponent;
             }());
             exports_1("AppComponent", AppComponent);
+            HEROES = [
+                { "id": 11, "name": "John Doe" },
+                { "id": 12, "name": "John Doe" },
+                { "id": 13, "name": "John Doe" },
+                { "id": 14, "name": "John Doe" },
+                { "id": 15, "name": "John Doe" },
+                { "id": 16, "name": "John Doe" },
+                { "id": 17, "name": "John Doe" },
+                { "id": 18, "name": "John Doe" },
+                { "id": 19, "name": "John Doe" },
+                { "id": 20, "name": "John Doe" },
+            ];
         }
     }
 });
