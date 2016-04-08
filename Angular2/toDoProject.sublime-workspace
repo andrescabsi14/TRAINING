@@ -1,0 +1,728 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"mo",
+				"mobileMin"
+			],
+			[
+				"mob",
+				"mobileMin"
+			],
+			[
+				"mobileM",
+				"mobileMax"
+			],
+			[
+				"mobile",
+				"mobile"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"flex-",
+				"flex-start"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"mobil",
+				"mobileAndroid"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"tab",
+				"tablet"
+			],
+			[
+				"tablet",
+				"tabletMin"
+			],
+			[
+				"posi",
+				"background-position"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"mobiel",
+				"mobileMin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"batman",
+				"batman-color"
+			],
+			[
+				"superman",
+				"superman-color"
+			],
+			[
+				"max",
+				"mobileMax"
+			],
+			[
+				"cta",
+				"cta-choose"
+			],
+			[
+				"progres",
+				"progress-bar"
+			],
+			[
+				"trivia",
+				"trivia-wrapper"
+			],
+			[
+				"roo",
+				"$rootScope	AngularJS"
+			],
+			[
+				"loca",
+				"$location	AngularJS"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"flex",
+				"flex-end"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"question",
+				"question-time-indicator"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"mixer",
+				"mixerItems"
+			],
+			[
+				"sess",
+				"sessionToken"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"rtv",
+				"rtvcInitialReq"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"cs",
+				"categories"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"login",
+				"loginFactory"
+			],
+			[
+				"ca",
+				"categoriesAPI"
+			],
+			[
+				"categor",
+				"categoriesFactory"
+			],
+			[
+				"NG-S",
+				"ng-show	AngularJS"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"text",
+				"text-align-last"
+			],
+			[
+				"upload",
+				"uploadVideo-wrapper"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 225.0,
+		"last_filter": "javas",
+		"selected_items":
+		[
+			[
+				"javas",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"angu",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"JA",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"angula",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/TRAINING/Angular2/toDoProject"
+	],
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/Manos al Agua/manosalagua.com/bower.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/MakeTheNews/makethenewsgreatagain.com/landing/.gitignore",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/MakeTheNews/makethenewsgreatagain.com/landing/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/MakeTheNews/makethenewsgreatagain.com/landing/gulpfile.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/MakeTheNews/makethenewsgreatagain.com/landing/js/main.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/MakeTheNews/makethenewsgreatagain.com/landing/dist/js/main.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/MakeTheNews/makethenewsgreatagain.com/landing/dist/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/public/index.html",
+		"/Applications/XAMPP/xamppfiles/etc/extra/httpd-vhosts.conf",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Ranking/rankingCtrl.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Superman/superman.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Superman/superman.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Batman/batman.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Batman/batman.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Premios/premios.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Trivia/trivia.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Menu/menu.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Countdown/countdown.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Ranking/ranking.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Ranking/ranking.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Premios/premios.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Menu/menu.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Home/home.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/utils.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Preloader/preloader.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Login/login.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Background/background.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Legal/legal.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/404/404.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/app.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Home/home.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Background/background.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Home/homeCtrl.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/_config.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Batman/batmanCtrl.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Superman/supermanCtrl.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Stage/stage.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Login/login.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/fonts.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/public/app.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Login/login.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Menu/menu.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Premios/premiosCtrl.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Login/loginCtrl.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Legal/legal.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/index.js",
+		"/Users/mdsfront01/generator.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Trivia/trivia.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Trivia/trivia.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Countdown/countdown.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Preloader/preloader.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Preloader/preloader.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/gulpfile.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/public/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/public/_config.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Background/background.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/Mapa Sonoro/Desktop/mapa_sonoro_desktop/sass/layout/_main.sass",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/Mapa Sonoro/Desktop/mapa_sonoro_desktop/sass/style.sass",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/Mapa Sonoro/Desktop/mapa_sonoro_desktop/sass/base/_mixins.sass",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/MDS/Website2016/mdsdigital.com/public/sass/styles.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Service/userFactory.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/app/Http/Controllers/UserController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/webpack.config.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/dist/app.40deb6e109e9dcfd2b0b.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/Assets/js/_config.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Splash/splash.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Splash/splash.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Legal/legal.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Splash/splash.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/StopWatch/stopwatch.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/StopWatch/stopwatch.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/StopWatch/stopwatch.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/StopWatch/stopWatchPlugin.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Countdown/countdown.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/public/images/batman.svg",
+		"/Users/mdsfront01/Downloads/batman_vs.svg",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Countdown/jquery.countdown360.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/gulpfile.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/dist/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Home/lightning.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Header/menu.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/components/Home/home.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/webpack.config.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/app/components/Menu/menu.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/app/components/App/app.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/app/index.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/app/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/app/_config.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/.gitignore",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/favicon.ico",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/web.config",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/config.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/app/js/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/app/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/app/webpack.config.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/app/bundle.min.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/app/js/index.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/app/js/controllers/homeController.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/app/js/controller.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/app/js/app.js+",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/bundle.min.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/controllers/homeController.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/constants.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app/controller.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/config.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/constants.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/sass/variables.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/.env",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/sass/gulll.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/controller.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/.babelrc",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/robots.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/MDS/Website2016/mdsdigital.com/public/scripts/main.js",
+		"/Users/mdsfront01/Downloads/animate.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/MDS/Website2016/mdsdigital.com/public/styles/styles.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/MDS/Website2016/mdsdigitalCom/public/scripts/main.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/MDS/Website2016/mdsdigitalCom/public/sass/styles.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/MDS/Website2016/mdsdigitalCom/public/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/MDS/Website2016/mdsdigitalCom/gulpfile.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Dev/MDS/Website2016/mdsdigitalCom/app/index.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app",
+			"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src",
+			"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app",
+			"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src",
+			"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public/src/app",
+			"/Applications/XAMPP/xamppfiles/htdocs/Dev/DrPepper/drpepper.com.mx/public",
+			"/Applications/XAMPP/xamppfiles/htdocs/Dev/MiMemoriaAng/MapaSonoroDesktop/mapa_sonoro_desktop/app",
+			"/Applications/XAMPP/xamppfiles/htdocs/Dev/MiMemoriaAng/MiMemoriaV1/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mobileMax",
+			"src",
+			"../../fonts/",
+			"url('",
+			"first-",
+			"<img",
+			"countdownFunc",
+			"img_premio",
+			"img_prem",
+			"BOX",
+			"SCORE",
+			"score",
+			"texto_premio",
+			"0 75px $neonColor2;",
+			" 0 0 20px #fff,",
+			"f, 0 0 40px $n",
+			"0 0 40px",
+			"0 0 70px",
+			" 0 0 80px",
+			"0 0 100px",
+			"150px",
+			"infinite",
+			"0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, ",
+			"0 0 10px #fff, 0 0 20px #fff, ",
+			"infinite",
+			"premios",
+			"transitio",
+			".batman{",
+			"batman-image",
+			"    background-size: 150px;",
+			"week-indicator",
+			"week",
+			"weeks",
+			"symbol",
+			"hashtags",
+			"trivia-wr",
+			"cta-choose",
+			".nav",
+			"sym",
+			"symnb",
+			"symbols",
+			"lock",
+			"@mixin iphoneMin",
+			"main-wr",
+			"closeLegal",
+			"legal",
+			"loginAc",
+			"Legal",
+			"legal",
+			"Legal",
+			"legal",
+			"form-group",
+			"legal",
+			"batman",
+			"batman-color",
+			"superman-color",
+			"batman-color",
+			"sound",
+			"terms",
+			"red",
+			"red;",
+			" red;",
+			"border: 1px solid red;",
+			"border: 1px solid #b22027;",
+			"checkbox-custom-label",
+			"terms",
+			"checkbox-custom-label",
+			"final-res",
+			".trivia",
+			"trivia-wrapper",
+			".question",
+			"question",
+			"background-s",
+			"350",
+			"trivia-we",
+			"transform",
+			"validated",
+			"terms-",
+			"final",
+			"drPepper",
+			"cta-choose",
+			"terms",
+			"backgr",
+			".validated",
+			"cta",
+			"terms",
+			"background-position",
+			"display: none",
+			".preloader",
+			"preloader",
+			".content",
+			".back",
+			"back",
+			"neon",
+			"bg_fx",
+			"desktopMin",
+			"Countdown",
+			"countdown",
+			"	\n",
+			"rgba",
+			"time-indi",
+			"nav",
+			"trivia-wrapper",
+			"title",
+			"margin-top",
+			"seconds",
+			"title-inst",
+			"symbol",
+			"deviceDetector",
+			"row",
+			"horizontal",
+			"row",
+			"superman",
+			"batman",
+			"prefixer",
+			"results",
+			"mobileMax",
+			"barcode",
+			"TRIVIA",
+			"h3",
+			"batman",
+			"desktopMin",
+			"h3",
+			"    ",
+			"<Background",
+			"titulo_pop",
+			"instructions",
+			"<div class=\"text\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "toDoProject.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
