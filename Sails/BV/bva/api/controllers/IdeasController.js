@@ -18,8 +18,8 @@ module.exports = {
 		})
 	},
 	removeIdea: function(req, res){
-		var dataIdea = req.params.all();
-		Ideas.destroy(dataIdea).exec(function(err, ideas){
+		var dataIdeadel = req.params.all();
+		Ideas.destroy(dataIdeadel).exec(function(err, ideas){
 			return res.json(ideas);
 		})
 	}

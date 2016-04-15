@@ -57,7 +57,7 @@ app.service('IdeasService', ['$http', '$q', function($http, $q){
 	},
 	this.removeIdea = function(Idea){
 		var defer = $q.defer();
-		$http.post('ideas/addIdea', Idea)
+		$http.post('ideas/removeIdea', Idea)
 			.success(function(res){
 				defer.resolve(res);
 			})
