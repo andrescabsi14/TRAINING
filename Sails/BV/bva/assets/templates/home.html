@@ -1,0 +1,25 @@
+<div>
+    <div>
+        <h1>New Idea</h1>
+        <br>
+        <div id="idea-form">
+            <div>
+              <input type="text" ng-model="Idea.idea" placeholder="Your idea's title">
+            </div>
+            <div>
+              <button ng-click="addIdea(Idea)">Create</button>
+            </div>
+        </div>
+    </div>
+    <div id="idea-list">
+        <div ng-show="ideasList.length > 0">
+        	<h2>Latest Ideas</h2>
+            <div ng-repeat="idea in ideasList">
+                <label>
+                    <input type="checkbox" ng-click="removeIdea(Idea)">
+                    {{ idea.idea }}
+                </label>
+            </div>
+        </div>
+    </div>
+</div>

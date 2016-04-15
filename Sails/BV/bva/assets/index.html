@@ -1,10 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="bvaApp">
 <head>
 	<meta charset="UTF-8">
+	<link rel="stylesheet" href="styles/styles.css">
+
 	<title>Sails-Angular App</title>
 </head>
 <body>
-	<h1>Hello</h1>
+	<header>
+		<ul>
+			<li>HOME</li>
+			<li>IDEAS</li>
+			<li>ITEM</li>
+			<li>ITEM</li>
+		</ul>
+	</header>
+	<section ui-view></section>
+	<script src="/js/dependencies/angular/angular.js"></script>
+	<script src="/js/dependencies/angular-ui-router/release/angular-ui-router.js"></script>
+	<script src="/js/app.js"></script>
 </body>
 </html>
