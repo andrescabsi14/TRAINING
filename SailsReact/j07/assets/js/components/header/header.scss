@@ -1,0 +1,56 @@
+header{
+	background: white;
+	position: relative;
+	height: 9rem;
+	padding: 0 1.5rem;
+	box-sizing: border-box;
+
+	.user_data{
+		height: 100%;
+		z-index: 100;
+		position: relative;
+		overflow: hidden;
+		display: flex;
+		margin-top: 0.5rem;
+		justify-content: flex-start;
+		align-items: center;
+
+		.avatar{
+		    width: 5rem;
+		    height: 5rem;
+		    overflow: hidden;
+		    border-radius: 50%;
+		    background: #DFDFDF;
+		    margin-right: 0.7rem;
+
+		    img{
+		    	width: 100%;
+		    	height: auto;
+		    }
+		}
+
+		.message{
+			.title{
+			    font-weight: 600;
+			    font-size: 2rem;
+			    line-height: 1;
+			}
+			.subtitle{
+			    font-weight: 400;
+			    display: block;
+			    font-size: 1.1rem;
+			}
+		}
+	}
+	.diagonal{
+		width: 102%;
+	    height: 5rem;
+	    background: inherit;
+	    transform: rotate(7deg);
+	    position: absolute;
+	    bottom: -1.6rem;
+	    left:0;
+	    right: 0;
+	    margin: 0 auto;
+	}
+}
