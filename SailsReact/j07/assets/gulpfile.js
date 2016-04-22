@@ -66,4 +66,4 @@ var destFolder = './';
     });
 
 // DEFAULT
-    gulp.task('default', ['serve', 'watch']);
+    gulp.task('default', ['watch']);
