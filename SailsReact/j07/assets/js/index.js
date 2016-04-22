@@ -1,3 +1,4 @@
-require("./app.js");
-require("./components/nav/nav.js");
-require("./components/header/header.js");
+import app from "./app.js";
+import nav from "./components/nav/nav.js";
+import header from "./components/header/header.js";
+
