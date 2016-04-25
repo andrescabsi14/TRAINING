@@ -1,11 +1,8 @@
-import app from "./app.js"
-import nav from "./components/nav/nav.js"
-import header from "./components/header/header.js"
-
-
-import React from 'react'
-import {render} from 'react-dom'
-
-
 // https://www.codementor.io/reactjs/tutorial/beginner-guide-setup-reactjs-environment-npm-babel-6-webpack
+// https://www.twilio.com/blog/2015/08/setting-up-react-for-es6-with-webpack-and-babel-2.html
+import App from "./containers/App.jsx";
+
+
+
+
 
