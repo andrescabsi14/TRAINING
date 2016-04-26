@@ -1,25 +1,39 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import ContextNav from "../components/ContextNav/ContextNav.jsx"
-import Header from "../components/Header/Header.jsx"
-import Nav from "../components/Nav/Nav.jsx"
-import Notes from "../components/Notes/Notes.jsx"
+import Dashboard from "../sections/Dashboard.jsx"
+import config from "../config"
+import $ from "jquery"
+import Router from './router';
 
- 
+
 class App extends React.Component {
-  render() {
-    return (
-    	<div>
-    		<Header />
-    		<ContextNav />
-    		{/* Content main container*/}
-    		<section className="main_content">
-    			<Notes />
-    		</section>	
-    		<Nav />
-    	</div>
-    )
-  }
+    constructor (props) {
+        super(props)
+        this.state = { data: [] }
+    }
+
+    loadNotes () {
+        let notesEndpoint = config.api.url + config.api.notes
+        fetch(notesEndpoint)
+        .then(response => response.json())
+        .then(data => this.setState({ data: data }))
+        .catch(err => console.error(this.props.url, err.toString()))
+    }
+
+    componentDidMount () {
+        this.loadNotes()
+        
+    }
+   
+
+    
+    render() {
+        return (
+            <Dashboard data={this.state.data} />
+        )
+    }
 }
  
 ReactDOM.render(<App />, document.getElementById('app'))
+
+// https://css-tricks.com/learning-react-router/

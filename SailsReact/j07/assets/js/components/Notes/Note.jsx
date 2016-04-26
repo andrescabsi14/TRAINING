@@ -7,8 +7,8 @@ class Note extends React.Component {
     }
     render() {
         return (
-            <li className="item active">
-                My first note in this app
+            <li className="note item">
+                {this.props.note.title}
                 <div className="context">
                     <div className="edit"><i className="fa fa-pencil" aria-hidden="true"></i></div>
                     <div className="close"><i className="fa fa-times" aria-hidden="true"></i></div>

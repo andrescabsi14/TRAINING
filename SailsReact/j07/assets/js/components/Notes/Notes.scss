@@ -1,0 +1,26 @@
+// NOTES
+//////////////////////////////
+.main_content{
+	padding: 3.5rem 1rem 1rem 1rem;
+	box-sizing: border-box;
+	display: inline-block;
+	width: 100%;
+
+	h1{
+		margin-top: 0;
+		margin-bottom: 1rem;
+		font-weight: 600;
+	}
+
+
+	.content_wrapper{
+		ul.notes{
+			padding: 0;
+			margin: 0;
+			list-style: none;
+			height: 46vh;
+			overflow-y: auto;
+		}
+	}
+}
+

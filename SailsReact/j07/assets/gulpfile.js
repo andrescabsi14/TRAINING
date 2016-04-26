@@ -18,7 +18,7 @@ var imageop = require('gulp-image-optimization');
 //VARIABLES
 var port = 8001;
 var rootFolder = './';
-var sourceFolder = './styles';
+var stylesFolder = './styles';
 var destFolder = './';
 
 // LIVERELOAD SERVER
@@ -36,7 +36,7 @@ var destFolder = './';
 
 // SASS
     gulp.task('sass', function () {
-      gulp.src(`${sourceFolder}/**/*.scss`)
+      gulp.src(`${rootFolder}/**/*.scss`)
         .pipe(sass().on('error', sass.logError))
         .pipe(concat('styles.min.css'))
         .pipe(autoprefixer({
@@ -44,7 +44,7 @@ var destFolder = './';
             cascade: false
         }))
         .pipe(uglifycss() )
-        .pipe(gulp.dest(`${destFolder}/styles`))
+        .pipe(gulp.dest(`${stylesFolder}`))
         .pipe(connect.reload());
         notifier.notify('SASS Compiled');
     });
@@ -61,7 +61,7 @@ var destFolder = './';
 
 // WATCH
     gulp.task('watch', function () {
-        gulp.watch(`${sourceFolder}/**/*.scss`, ['sass']);
+        gulp.watch(`${rootFolder}/**/*.scss`, ['sass']);
         notifier.notify('Gulp Watching...');
     });
 

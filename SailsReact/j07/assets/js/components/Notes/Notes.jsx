@@ -11,7 +11,11 @@ class Notes extends React.Component {
             <div className="content_wrapper">
                 <h1>Latest notes</h1>
                 <ul className="notes">
-                    <Note />
+                    {
+                        this.props.notes.map( (note) => {
+                            return <Note note={note} />
+                        })
+                    }
                 </ul>
             </div>
         )
